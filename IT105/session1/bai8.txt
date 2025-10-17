@@ -1,0 +1,15 @@
+bai8
+1.Các tác nhân chính 
+-học viên, giảng viên, admin
+2.Phân loại hệ thống thông tin 
+TPS: học viên đăng ký , tham gia 
+MIS: giảng viên quản lý khóa học 
+EIS: admin 
+3.Mô hình phát triển phù hợp nhất là 
+Agile do dự án có nhiều n dùng khác nhau 
+Yêu cầu thay đổi thường xuyên 
+Cần triển khai sớm 
+Đòi hỏi giao diện thân thiện 
+4.Sơ đồ UML 
++use case diagram : xác định mqh giữa các tác nhân 
++class diagram : mô tả cấu trúc dữ liệu và mối quan hệ giữa các lớp

@@ -1,0 +1,21 @@
+bai4
+Requirement Analysis: 
++Mục tiêu : điểm danh học sinh 
++Phạm vi : lớp học 
++Yêu cầu : đánh dấu điểm danh học sinh 
++Ràng buộc : các giờ học 
+System Design: 
++Bản thiết kế : Giáo viên - học sinh 
+Implementation / Coding: 
++Backend: sử dụng Node.js + NestJS để xây API.
++Frontend: sử dụng React / Next.js để xây giao diện người dùng.
++Database: PostgreSQL để lưu trữ dữ liệu sinh viên, khóa học, điểm số.
+Kiểm thử phần mềm:
++Học sinh thử tick điểm danh 
++Lỗi => sử lý
+Deployment: 
+đưa hệ thông ra mỗi trường
+Maintenance: 
++Sửa lỗi phát sinh 
++Cập nhật phần mềm 
++Nâng cấp tính năng điểm danh 

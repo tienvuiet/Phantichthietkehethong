@@ -1,0 +1,17 @@
+bai5
+Planning: 
++Mục tiêu : xây dụng ứng dụng điểm danh bằng QR, 
++Đói tượng : Giảng viên, học sinh, 
++Lợi ích: tự động hóa quá trình điểm danh , 
++Phạm vi : quản lí, điểm danh , thống kê , 
++Thời gian : 4 tháng phát triển
+Requirement Analysis: 
++Giảng viên: tạo buổi học , 
++Giảng viên : sinh mã QR, 
++Sinh viên : quét mã, 
++Phòng đào tạo : xem thống kê, 
++Thống kê: Đăng nhập 
+System Design :
++ fontend: web ; 
++ backend: rest API, 
++ database: mySQL

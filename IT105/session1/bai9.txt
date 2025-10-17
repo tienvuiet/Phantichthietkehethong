@@ -1,0 +1,20 @@
+bai9 
+1
+Khách hàng : tạo đơn và theo dõi quá trình giao hàng 
+Nhân viên : vận chuyển và cập nhật trạng thái hàng 
+Quản lý: theo dõi hiệu suất hàng, khu vực tồn đọng 
+CEO: xem tổng quan giao dịch, vùng hoạt động, tỉ lệ giao đúng hẹn 
+Admin : quản lý người dùng
+
+2.
+tạo đơn hàng, thanh toán, cập nhật trạng thái: TPS
+Phân công đơn, lịch trình, theo dõi vận hành hàng ngày : TPS+ MIS
+Báo cáo hiệu suất: MIS
+Phân tích nguyên nhân đề xuất tối ưu: DSS, 
+DashBoard tổng quan cho CEO: DSS
+Hệ thống cảnh báo sự cố thời gian thực (delay-> threshold) : TPS
+
+3.Chọn mô hình Agile
+4.Sơ đồ UML đề xuất 
+-Use Case Diagram 
+-class diagram 

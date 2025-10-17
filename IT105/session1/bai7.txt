@@ -1,0 +1,16 @@
+bai7 
+Khảo sát và phân tích yêu cầu 
+-phát triển hệ thống hỗ trợ đăng ký tiêm chủng online
+Thiết kế hệ thống 
+-form đăng kí ngày tiêm , trụ sở tiêm, vaccine , trạng thái tiêm 
+-useCase: người đăng kí - trung tâm duyệt - cập nhật trạng thái
+
+
+Lập trình 
+-Chia công việc cho nhóm phát triển(fontEnd, backend, database)
+Kiểm thử 
+-Đảm bảo hệ thống hoạt động đúng , ổn định và an toàn 
+Triển khai 
+-Đưa hệ thống vào sử dụng thực tế
+Bảo trì 
+-Duy trù và cải tiến hệ thống sau khi triển khai

@@ -1,0 +1,6 @@
+bai3
+Con người: khách hàng
+Dũ liệu : đơn hàng 
+Quy trình : user -> admin -> grap
+Phần mềm: shoppe
+Phần cứng : điện thoại shipper
