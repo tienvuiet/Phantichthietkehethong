@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram id="Tbra-VOmLWnP2UlycPOR" name="Trang-1">
+    <mxGraphModel dx="1042" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="430" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-1" value="Nhân viên thư viện" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-2" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-3" value="Mượn sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-4" value="Tìm sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-5" value="Trả sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AT6_2BYrdZTh0zAGHQ3F-1" target="AT6_2BYrdZTh0zAGHQ3F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.103;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AT6_2BYrdZTh0zAGHQ3F-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AT6_2BYrdZTh0zAGHQ3F-1" target="AT6_2BYrdZTh0zAGHQ3F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AT6_2BYrdZTh0zAGHQ3F-16" target="AT6_2BYrdZTh0zAGHQ3F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT6_2BYrdZTh0zAGHQ3F-16" target="AT6_2BYrdZTh0zAGHQ3F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-16" value="Độc giả" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.718;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AT6_2BYrdZTh0zAGHQ3F-16" target="AT6_2BYrdZTh0zAGHQ3F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AT6_2BYrdZTh0zAGHQ3F-22" value="Hệ thống quản lý thư viên" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
